@@ -1,4 +1,4 @@
-# 🎉 React Router Website Starter Template
+# 🎉  Panto — Transform Your Space Into Minimalist Modernity
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react)
